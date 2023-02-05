@@ -1,0 +1,41 @@
+
+.hidden {
+    display: none;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(13, 13, 13);
+}
+
+.user-wrap {
+  background-size: cover;
+  width: 272px;
+  height: 196px;
+  justify-content: center;
+  align-items: center;
+}
+
+.user-image{  
+    background-size: 272px 196px;
+}
+
+.user-text {
+    font-family: monospace;
+    color: azure;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    text-align: center;
+    transform: translate( -50%, -50%);
+    word-break: normal;
+}
+
+.font-size1 {
+    font-size: xx-large;
+}
+
+.font-size2 {
+    font-size: large;
+}

@@ -2,7 +2,7 @@
 
 # Intro
 
-Chrome app made with vanillaJS
+Chrome App made with vanillaJS
 
 
 ## Random Background and Quotes

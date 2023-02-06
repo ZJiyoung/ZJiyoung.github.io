@@ -5,16 +5,16 @@
 Chrome App made with vanillaJS
 
 
-## Random Background and Quotes
-
-The background and quotes change randomly
-
-
 ## Greeting
 
 Enter your name and the browser will greet you. 
 This will be reflected even after refreshing. 
 Empty your local storage if you want to be greeted with a new name.
+
+
+## Random Background and Quotes
+
+The background and quotes change randomly
 
 
 ## Todo-list

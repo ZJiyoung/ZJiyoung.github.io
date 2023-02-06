@@ -27,6 +27,7 @@ Enter several to do lists, and delete completed tasks by pressing the X button. 
 If you allow the browser to know your location, the website will show today's weather, minimum and maximum temperature, and location.
 
 
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first

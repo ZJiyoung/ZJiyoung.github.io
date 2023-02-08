@@ -1,7 +1,4 @@
 # ZJiyoung.github.io
-
-# Intro
-
 Chrome App made with vanillaJS
 
 
